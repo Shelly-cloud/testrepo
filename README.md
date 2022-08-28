@@ -1,4 +1,6 @@
 Deployment instruction
+
+
 Create database and import file src/database/db.sql
 Change config values in src/config/config.php
 Run file php src/cli/pull_commits.php 
