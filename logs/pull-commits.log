@@ -1,0 +1,19 @@
+2022-08-28T20:40:12+00:00 [INFO] : Got 3 repos
+2022-08-28T20:40:12+00:00 [INFO] : ===================================================================================
+2022-08-28T20:40:12+00:00 [INFO] : Processing branch no (0) [main]
+2022-08-28T20:40:12+00:00 [INFO] : Fetching details for latest commit of branch... [main]
+2022-08-28T20:40:13+00:00 [INFO] : Inserting record in database for branch... [main]
+2022-08-28T20:40:13+00:00 [WARNING] : Branch [main] already exists in database
+2022-08-28T20:40:13+00:00 [INFO] : ===================================================================================
+2022-08-28T20:40:13+00:00 [INFO] : Processing branch no (1) [refactor/nodes-edges-state]
+2022-08-28T20:40:13+00:00 [INFO] : Fetching details for latest commit of branch... [refactor/nodes-edges-state]
+2022-08-28T20:40:14+00:00 [INFO] : Inserting record in database for branch... [refactor/nodes-edges-state]
+2022-08-28T20:40:14+00:00 [WARNING] : Branch [refactor/nodes-edges-state] already exists in database
+2022-08-28T20:40:14+00:00 [INFO] : ===================================================================================
+2022-08-28T20:40:14+00:00 [INFO] : Processing branch no (2) [v10]
+2022-08-28T20:40:14+00:00 [INFO] : Fetching details for latest commit of branch... [v10]
+2022-08-28T20:40:14+00:00 [INFO] : Inserting record in database for branch... [v10]
+2022-08-28T20:40:14+00:00 [WARNING] : Branch [v10] already exists in database
+2022-08-28T20:40:14+00:00 [INFO] : Fetched all branches successfully for repoId (1)
+2022-08-28T20:40:14+00:00 [INFO] : ===================================================================================
+2022-08-28T20:40:14+00:00 [INFO] : Fetching data for page no (1)
