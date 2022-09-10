@@ -1,6 +1,7 @@
 
 This is sample code to use the function fetchRepoWithCommits to fetch commits and insert in database
 
+```
 <?php
 $VENDOR_DIRECTORY_PATH =  __dir__ . "/../vendor";
 
@@ -19,3 +20,4 @@ $dbName = 'testanalyser';
 
 $fetchCommitsResult = fetchRepoWithCommits($dbHost,$dbUser,$dbPassword,$dbName,$githubUsername, $repoName, $pageSize, $FETCH_TOTAL_COMMITS_CAP, $githubAuthToken);
 print_r($fetchCommitsResult);
+```
